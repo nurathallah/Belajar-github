@@ -30,6 +30,8 @@ Langkah-langkah:
 
 
 3. Langkah-Langkah Clone Repository
+<img src = "/image/Git clone.png/">
+<img src = "/image/cd.png/">
 Fungsi: Menyalin repositori yang sudah ada di server (Remote) ke komputer lokal untuk pertama kalinya.
 
 -Langkah-langkah:
