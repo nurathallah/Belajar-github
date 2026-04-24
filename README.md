@@ -13,6 +13,7 @@ Mengapa tidak menggunakan aplikasi klik-klik saja? Berikut alasannya:
 
 
 2. Langkah-Langkah Push Repository
+<img src = /image/Push repository.png>
 Fungsi: Mengirimkan perubahan kode dari komputer lokal (Local Repository) ke server pusat (Remote Repository seperti GitHub/GitLab).
 
 Langkah-langkah:
@@ -59,3 +60,4 @@ git commit -m "Penjelasan perubahan"
 git push origin [nama_branch]
 
 -Catatan Penting: Selalu lakukan git pull sebelum bekerja atau sebelum push untuk menghindari merge conflict yang memusingkan!
+
